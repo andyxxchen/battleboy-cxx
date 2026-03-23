@@ -5,7 +5,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 
-  - Email: battleboy.cxx@gmail.com
+  - Email: andy.xxchen@gmail.com
   - Wechat: Baton-cxx
   - Blog: blog.battleboy.top
 - 😄 Pronouns: He/His
